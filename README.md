@@ -39,7 +39,7 @@ Users should be able to:
 
 ### What I learned
 
-I leared to make grid layout using Tailwind CSS.
+I learned to make grid layout using Tailwind CSS.
 
 ### Continued development
 
